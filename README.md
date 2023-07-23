@@ -1,5 +1,5 @@
 # Programming-challenge
-This repository contains all of the project work I have used which includes:  
+This repository contains all of the project work I have done which includes:  
 
 -java source code which is located 
 in the file location: programming_challenge\src\main\java\challenge\database\programming_challenge
