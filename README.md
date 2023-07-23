@@ -1,6 +1,4 @@
 # Programming-challenge
-An application built on java spring boot which can access a MySQL database
-
 This repository contains all of the project work I have used which includes:  
 
 -java source code which is located 
