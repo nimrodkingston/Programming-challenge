@@ -1,5 +1,5 @@
-# Programming-challenge
-This repository contains all of the project work I have done which includes:  
+# Spring boot data base project
+This repository contains all of my project work for a simple spring boot application which includes:  
 
 -java source code which is located 
 in the file location: programming_challenge\src\main\java\challenge\database\programming_challenge
@@ -18,5 +18,4 @@ located in the top of this repository
 NOTE: The application.properties file currently has hibernate.auto set to none which assumes that a database structure already exists rather than making
 a new one.
 
-NOTE: The username and password in application.properties are set to the root and the password that I used for my development however, if you wish to connect to
-a different MySQL database, you may need to change the username and password to ones which are relevant to the database you will be using.
+NOTE: The username and password in application.properties are not set so you will have to set them to a username and password which are relevant to the MySQL database you are using
